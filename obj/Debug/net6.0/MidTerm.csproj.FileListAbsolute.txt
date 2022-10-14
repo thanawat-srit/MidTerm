@@ -1,0 +1,15 @@
+C:\Work_Kmutt\Y2_1\MDT211\MidTerm\bin\Debug\net6.0\MidTerm.exe
+C:\Work_Kmutt\Y2_1\MDT211\MidTerm\bin\Debug\net6.0\MidTerm.deps.json
+C:\Work_Kmutt\Y2_1\MDT211\MidTerm\bin\Debug\net6.0\MidTerm.runtimeconfig.json
+C:\Work_Kmutt\Y2_1\MDT211\MidTerm\bin\Debug\net6.0\MidTerm.dll
+C:\Work_Kmutt\Y2_1\MDT211\MidTerm\bin\Debug\net6.0\MidTerm.pdb
+C:\Work_Kmutt\Y2_1\MDT211\MidTerm\obj\Debug\net6.0\MidTerm.csproj.AssemblyReference.cache
+C:\Work_Kmutt\Y2_1\MDT211\MidTerm\obj\Debug\net6.0\MidTerm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work_Kmutt\Y2_1\MDT211\MidTerm\obj\Debug\net6.0\MidTerm.AssemblyInfoInputs.cache
+C:\Work_Kmutt\Y2_1\MDT211\MidTerm\obj\Debug\net6.0\MidTerm.AssemblyInfo.cs
+C:\Work_Kmutt\Y2_1\MDT211\MidTerm\obj\Debug\net6.0\MidTerm.csproj.CoreCompileInputs.cache
+C:\Work_Kmutt\Y2_1\MDT211\MidTerm\obj\Debug\net6.0\MidTerm.dll
+C:\Work_Kmutt\Y2_1\MDT211\MidTerm\obj\Debug\net6.0\refint\MidTerm.dll
+C:\Work_Kmutt\Y2_1\MDT211\MidTerm\obj\Debug\net6.0\MidTerm.pdb
+C:\Work_Kmutt\Y2_1\MDT211\MidTerm\obj\Debug\net6.0\MidTerm.genruntimeconfig.cache
+C:\Work_Kmutt\Y2_1\MDT211\MidTerm\obj\Debug\net6.0\ref\MidTerm.dll
